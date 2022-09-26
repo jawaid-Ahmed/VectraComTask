@@ -36,7 +36,7 @@ class _LoginPageState extends State<LoginPage> {
                 child: Container(
                     width: double.infinity,
 
-                    child: Image.network('https://t3.ftcdn.net/jpg/03/39/70/90/360_F_339709048_ZITR4wrVsOXCKdjHncdtabSNWpIhiaR7.jpg')),
+                    child: Image.asset('assets/login.png')),
               ),
             ),
             Padding(
